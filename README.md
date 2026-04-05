@@ -38,4 +38,6 @@ Soy estudiante de segundo curso en el Grado Superior de Desarrollo de Aplicacion
 
 ## Contacto 📫
 - LinkedIn: www.linkedin.com/in/noelia-ht
-- Email: nht.noelia@gmail.com
+- Email: noeliaht19@gmail.com
+  
+
