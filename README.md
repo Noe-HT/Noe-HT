@@ -4,7 +4,7 @@
 
 
 ## Sobre mí 👩‍💻
-Soy estudiante de segundo curso en el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), con especial interés en el desarrollo frontend. Me apasiona la creación de interfaces visuales, intuitivas y bien estructuradas, combinando diseño y funcionalidad. Actualmente estoy enfocada en mejorar mis habilidades técnicas y construir proyectos que reflejen buenas prácticas de desarrollo y una base técnica orientada a entornos reales.
+Soy estudiante de segundo curso en el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), con especial interés en el desarrollo frontend y la experiencia de usuario. Me apasiona la creación de interfaces visuales, intuitivas y bien estructuradas, combinando diseño y funcionalidad. Actualmente estoy enfocada en mejorar mis habilidades técnicas y construir proyectos que reflejen buenas prácticas de desarrollo y una base técnica orientada a entornos reales.
 
 ## Tecnologías 🛠️
 
